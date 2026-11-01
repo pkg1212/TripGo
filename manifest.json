@@ -14,7 +14,7 @@
   "display_override": [
     "standalone",
     "window-controls-overlay"
-  ]
+  ],
   "icons": [
     {
       "src": "./icons/appstore-images/launchericon-192x192.png",
