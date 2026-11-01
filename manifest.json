@@ -15,4 +15,16 @@
     "standalone",
     "window-controls-overlay"
   ]
+  "icons": [
+    {
+      "src": "./icons/appstore-images/launchericon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/appstore-images/launchericon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
