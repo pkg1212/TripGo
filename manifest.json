@@ -1,5 +1,5 @@
 {
-  "background_color": "rgb(112, 174, 239)",
+  "background_color": "#70aeef",
   "dir": "ltr",
   "display": "standalone",
   "name": "TripGo",
@@ -7,7 +7,7 @@
   "scope": "/",
   "short_name": "TripGo",
   "start_url": "https://pkg1212.github.io/TripGo/",
-  "theme_color": "rgb(112, 174, 239)",
+  "theme_color": "#70aeef",
   "id": "pkg1212",
   "description": "TripGo는 사용자가 편리하게 여행일정을 계획하게 도와주는 웹앱입니다",
   "lang": "ko",
@@ -26,5 +26,10 @@
       "sizes": "512x512",
       "type": "image/png"
     }
+  ],
+  "categories": [
+    "dating",
+    "travel",
+    "utilities"
   ]
 }
